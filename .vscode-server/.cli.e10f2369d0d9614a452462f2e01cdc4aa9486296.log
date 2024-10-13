@@ -1,0 +1,19 @@
+Listening on 127.0.0.1:38383
+[2024-10-13 19:24:02] info Disposed of connection to running server.
+looking for token e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95, got Some("e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95")
+[2024-10-13 19:24:05] info Disposed of connection to running server.
+[2024-10-13 19:24:05] info Disposed of connection to running server.
+looking for token e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95, got Some("e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95")
+[2024-10-13 19:24:05] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/pid.txt for a running server...
+[2024-10-13 19:24:05] info Starting server...
+[2024-10-13 19:24:10] info Server started
+[2024-10-13 19:24:23] info Disposed of connection to running server.
+[2024-10-13 19:24:24] info Disposed of connection to running server.
+looking for token e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95, got Some("e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95")
+[2024-10-13 19:24:24] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/pid.txt for a running server...
+[2024-10-13 19:24:24] info Found running server (pid=2518)
+[2024-10-13 19:25:32] info Disposed of connection to running server.
+[2024-10-13 19:25:32] info Disposed of connection to running server.
+looking for token e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95, got Some("e56bd2b8-0fbe-4b9b-a030-b8e3f7475f95")
+[2024-10-13 19:25:32] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/pid.txt for a running server...
+[2024-10-13 19:25:32] info Found running server (pid=2518)

@@ -1,0 +1,24 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.inlayHints.enabled": "off",
+    "redhat.telemetry.enabled": true,
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "blockman.n01LineHeight": 0,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.automationProfile.linux": {
+    
+    },
+    "files.autoSave": "afterDelay",
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-mac": "/Users/kdavina/.vs-kubernetes/tools/helm/darwin-arm64/helm"
+    },
+    "workbench.colorTheme": "Bearded Theme Vivid Black",
+    "git.openRepositoryInParentFolders": "always",
+    "editor.minimap.enabled": false
+}

@@ -1,0 +1,19 @@
+2024-10-12 15:25:08.151 [info] 
+
+
+
+
+2024-10-12 15:25:08.163 [info] Extension host agent started.
+2024-10-12 15:25:08.212 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2024-10-12 15:25:08.240 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2024-10-12 15:25:08.290 [info] [<unknown>][d896829e][ManagementConnection] New connection established.
+2024-10-12 15:25:08.291 [info] [<unknown>][1d5b7eea][ExtensionHostConnection] New connection established.
+2024-10-12 15:25:08.716 [info] [<unknown>][1d5b7eea][ExtensionHostConnection] <2805> Launched Extension Host Process.
+2024-10-12 15:25:29.149 [info] [<unknown>][d896829e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-12 15:25:29.170 [info] [<unknown>][1d5b7eea][ExtensionHostConnection] <2805> Extension Host Process exited with code: 0, signal: null.
+2024-10-12 15:25:29.171 [info] Cancelling previous shutdown timeout
+2024-10-12 15:25:29.171 [info] Last EH closed, waiting before shutting down
+2024-10-12 15:25:30.070 [info] [<unknown>][8cdb4dd3][ExtensionHostConnection] New connection established.
+2024-10-12 15:25:30.072 [info] [<unknown>][8cdb4dd3][ExtensionHostConnection] <2952> Launched Extension Host Process.
+2024-10-12 15:25:30.094 [info] [<unknown>][6062a39b][ManagementConnection] New connection established.
+2024-10-12 15:30:29.172 [info] New EH opened, aborting shutdown

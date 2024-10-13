@@ -1,0 +1,39 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-f0ee738a-752e-4e70-a689-7bb73d5c7bbb
+Extension host agent listening on /tmp/code-f0ee738a-752e-4e70-a689-7bb73d5c7bbb
+
+[19:24:14] 
+
+
+
+
+[19:24:15] Extension host agent started.
+[19:24:16] [<unknown>][76ebe1f0][ExtensionHostConnection] New connection established.
+[19:24:16] [<unknown>][4d821126][ManagementConnection] New connection established.
+[19:24:16] [<unknown>][76ebe1f0][ExtensionHostConnection] <2556> Launched Extension Host Process.
+[19:24:23] [<unknown>][4d821126][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:24:24] [<unknown>][76ebe1f0][ExtensionHostConnection] <2556> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[19:24:24] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[19:24:24] Last EH closed, waiting before shutting down
+[19:24:24] [<unknown>][4ef8f916][ManagementConnection] New connection established.
+[19:24:24] [<unknown>][33f88d56][ExtensionHostConnection] New connection established.
+[19:24:24] [<unknown>][33f88d56][ExtensionHostConnection] <2695> Launched Extension Host Process.
+[19:25:32] [<unknown>][4ef8f916][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:25:32] [<unknown>][33f88d56][ExtensionHostConnection] <2695> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[19:25:32] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[19:25:32] Last EH closed, waiting before shutting down
+[19:25:33] [<unknown>][6858ed27][ManagementConnection] New connection established.
+[19:25:33] [<unknown>][a998ea24][ExtensionHostConnection] New connection established.
+[19:25:33] [<unknown>][a998ea24][ExtensionHostConnection] <2900> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[19:30:32] New EH opened, aborting shutdown

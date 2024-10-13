@@ -1,0 +1,24 @@
+2024-10-13 19:24:15.649 [info] 
+
+
+
+
+2024-10-13 19:24:15.716 [info] Extension host agent started.
+2024-10-13 19:24:16.122 [info] [<unknown>][76ebe1f0][ExtensionHostConnection] New connection established.
+2024-10-13 19:24:16.153 [info] [<unknown>][4d821126][ManagementConnection] New connection established.
+2024-10-13 19:24:16.216 [info] [<unknown>][76ebe1f0][ExtensionHostConnection] <2556> Launched Extension Host Process.
+2024-10-13 19:24:23.981 [info] [<unknown>][4d821126][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-13 19:24:24.004 [info] [<unknown>][76ebe1f0][ExtensionHostConnection] <2556> Extension Host Process exited with code: 0, signal: null.
+2024-10-13 19:24:24.004 [info] Cancelling previous shutdown timeout
+2024-10-13 19:24:24.004 [info] Last EH closed, waiting before shutting down
+2024-10-13 19:24:24.903 [info] [<unknown>][4ef8f916][ManagementConnection] New connection established.
+2024-10-13 19:24:24.915 [info] [<unknown>][33f88d56][ExtensionHostConnection] New connection established.
+2024-10-13 19:24:24.918 [info] [<unknown>][33f88d56][ExtensionHostConnection] <2695> Launched Extension Host Process.
+2024-10-13 19:25:32.003 [info] [<unknown>][4ef8f916][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-13 19:25:32.030 [info] [<unknown>][33f88d56][ExtensionHostConnection] <2695> Extension Host Process exited with code: 0, signal: null.
+2024-10-13 19:25:32.031 [info] Cancelling previous shutdown timeout
+2024-10-13 19:25:32.031 [info] Last EH closed, waiting before shutting down
+2024-10-13 19:25:33.039 [info] [<unknown>][6858ed27][ManagementConnection] New connection established.
+2024-10-13 19:25:33.052 [info] [<unknown>][a998ea24][ExtensionHostConnection] New connection established.
+2024-10-13 19:25:33.056 [info] [<unknown>][a998ea24][ExtensionHostConnection] <2900> Launched Extension Host Process.
+2024-10-13 19:30:32.032 [info] New EH opened, aborting shutdown
